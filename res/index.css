@@ -40,6 +40,13 @@ html,body,#root,.common_full_width_height{
     background: url(../res/banner.jpg) no-repeat;
     background-size: cover;
 }
+.banner_title{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 80px;
+    font-family: "STXingkai","serif";
+}
 .list_item{
     text-align: center;
 }
